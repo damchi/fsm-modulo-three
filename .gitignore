@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+/doc/docs.go
+/doc/swagger.json
+/doc/swagger.yaml
