@@ -33,3 +33,4 @@ go.work.sum
 /doc/docs.go
 /doc/swagger.json
 /doc/swagger.yaml
+.idea
